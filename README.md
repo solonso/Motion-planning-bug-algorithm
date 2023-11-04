@@ -2,7 +2,7 @@
 Navigate robots intelligently with MATLAB! Bypass obstacles and find direct paths effortlessly. Visualize every step of your robot's journey. Perfect for beginners and experts alike. Upgrade your robot's intelligence now!
 
 
-Navigate your robot seamlessly in structured environments. Say goodbye to circumnavigation and hello to goal-oriented path planning using the Bug Algorithm.
+Navigate your robot seamlessly in structured environments. By using circumnavigation and saying hello to goal-oriented path planning, we employed Bug Algorithm.
 
 ![Bug1 algorithm ](https://github.com/solonso/Motion-planning-bug-algorithm/assets/63534670/95d2a15e-c708-462f-a561-fd316ac637d1)
 
