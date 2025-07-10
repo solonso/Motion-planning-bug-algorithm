@@ -23,7 +23,7 @@ Achieve smart robot movement with MATLAB. Whether it's bypassing complex obstacl
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 - MATLAB (Version 2020a or later)
 
