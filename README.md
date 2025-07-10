@@ -25,13 +25,13 @@ Achieve smart robot movement with MATLAB. Whether it's bypassing complex obstacl
 
 ### Prerequisites
 
-- MATLAB (Version XX.X or later)
+- MATLAB (Version 2020a or later)
 
 ### Installation & Usage
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/simple-robot-navigation.git
+    git clone https://github.com/solonso/Motion-planning-bug-algorithm.git
     ```
 
 2. Navigate to the cloned directory and open MATLAB.
